@@ -2,7 +2,7 @@
 
 ## Participantes
 
-- **Nombre completo**: Juan Diego Ospina
+- **Nombre completo**: Juan Diego Ospina Albarado
 - **Cédula**: 1193225801
 - **Programa académico**: Ingeniería Eléctrica
 
