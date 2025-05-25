@@ -15,6 +15,7 @@ Incluye un notebook con la exploración inicial de los datos del archivo `train.
 
 - `README.md`: Información del equipo y estructura del proyecto.
 - `01 - exploración.ipynb`: Carga y exploración básica del dataset `train.csv`.
+- `02_preprocesado.ipynb` : Operaciones de limpieza y preprocesado. 
 
 ## Enlance video
 - 
