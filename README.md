@@ -18,4 +18,4 @@ Incluye un notebook con la exploración inicial de los datos del archivo `train.
 - `02_preprocesado.ipynb` : Operaciones de limpieza y preprocesado. 
 
 ## Enlance video
-- 
+- https://youtu.be/pkKTYBpweEM
