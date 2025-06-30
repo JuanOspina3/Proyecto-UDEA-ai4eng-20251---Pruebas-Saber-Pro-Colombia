@@ -1,4 +1,4 @@
-# Entregas 1 y 2 - AI4ENG UDEA 2025-1
+# Entregas 1, 2 y 3 - AI4ENG UDEA 2025-1
 
 ## Participantes
 
@@ -14,11 +14,14 @@ Incluye un notebook con la exploración inicial de los datos del archivo `train.
 ## Descripción Entrega #2
 En esta segunda entrega del proyecto AI4ENG UDEA 2025-1, se realiza el preprocesamiento del conjunto de datos original (`train.csv`) correspondiente a la competencia de clasificación del rendimiento en las pruebas Saber Pro.
 
+## Descripción Entrega Final
+
 ## Contenido
 
 - `README.md`: Información del equipo y estructura del proyecto.
 - `01 - exploración.ipynb`: Carga y exploración básica del dataset `train.csv`.
 - `02_preprocesado.ipynb` : Operaciones de limpieza y preprocesado. 
 
-## Enlance video
-- https://youtu.be/pkKTYBpweEM
+## Enlances videos
+- Entrega 2: https://youtu.be/pkKTYBpweEM
+- Entrega Final: 
