@@ -49,7 +49,7 @@ Este repositorio contiene las entregas realizadas para la competencia de clasifi
 ## Enlaces a los videos
 
 - **Entrega 2:** https://youtu.be/pkKTYBpweEM  
-- **Entrega Final:** [🔗 Añade el enlace aquí cuando lo tengas]
+- **Entrega Final:** https://youtu.be/ugQ75rnAzgY
 
 ---
 
